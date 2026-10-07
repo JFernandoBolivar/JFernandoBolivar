@@ -5,6 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0b1120?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://jfernandobolivar.github.io)
+[![CV](https://img.shields.io/badge/CURR%C3%8DCULUM-0b1120?style=for-the-badge&logo=readthedocs&logoColor=f97316)](https://jfernandobolivar.github.io/cv.html)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b1120?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/jos%C3%A9-fernando-bolivar-82600a348)
 [![Email](https://img.shields.io/badge/EMAIL-0b1120?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:josefernandobolivar2@gmail.com)
 
@@ -134,6 +135,6 @@ API REST para el catálogo de paquetes turísticos de una agencia de viajes.
 
 **¿Tienes un proyecto en mente? · Have a project in mind?**
 <br/>
-[josefernandobolivar2@gmail.com](mailto:josefernandobolivar2@gmail.com) · [jfernandobolivar.github.io](https://jfernandobolivar.github.io)
+[josefernandobolivar2@gmail.com](mailto:josefernandobolivar2@gmail.com) · [jfernandobolivar.github.io](https://jfernandobolivar.github.io) · [CV](https://jfernandobolivar.github.io/cv.html)
 
 </div>
