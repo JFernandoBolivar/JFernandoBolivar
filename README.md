@@ -25,13 +25,13 @@ engineer:
   status: Open to freelance & part-time
 ```
 
-<h3 align="left">STACK</h3>
+<img src="assets/h_stack.svg" width="100%" alt="Stack"/>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,nestjs,nodejs,ts,js,postgres,mysql,prisma,docker,git,github,react,nextjs,vercel,aws&perline=16&theme=dark" alt="Stack" />
 </p>
 
-<h3 align="left">PROYECTOS DESTACADOS · FEATURED PROJECTS</h3>
+<img src="assets/h_projects.svg" width="100%" alt="Proyectos destacados · Featured projects"/>
 <sub>Haz clic en cada proyecto para ver el detalle · Click a project to expand it</sub>
 <br/><br/>
 
@@ -115,7 +115,7 @@ API REST para el catálogo de paquetes turísticos de una agencia de viajes.
 </tr>
 </table>
 
-<h3 align="left">ACTIVIDAD · ACTIVITY</h3>
+<img src="assets/h_activity.svg" width="100%" alt="Actividad · Activity"/>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JFernandoBolivar&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b1120&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&ring_color=22d3ee&custom_title=GitHub%20Activity" alt="GitHub stats" />
