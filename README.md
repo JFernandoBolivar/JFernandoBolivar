@@ -118,8 +118,16 @@ API REST para el catálogo de paquetes turísticos de una agencia de viajes.
 <h3 align="left">ACTIVIDAD · ACTIVITY</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JFernandoBolivar&show_icons=true&hide_border=true&count_private=true&bg_color=0b1120&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFernandoBolivar&layout=compact&hide_border=true&bg_color=0b1120&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JFernandoBolivar&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b1120&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&ring_color=22d3ee&custom_title=GitHub%20Activity" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=JFernandoBolivar&hide_border=true&background=0B1120&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JFernandoBolivar/JFernandoBolivar/output/contrib-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JFernandoBolivar/JFernandoBolivar/output/contrib-light.svg" />
+    <img width="100%" alt="Animated contribution graph" src="https://raw.githubusercontent.com/JFernandoBolivar/JFernandoBolivar/output/contrib-dark.svg" />
+  </picture>
 </p>
 
 <div align="center">
