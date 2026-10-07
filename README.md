@@ -1,54 +1,131 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Jos%C3%A9+Fernando+Bol%C3%ADvar+%F0%9F%91%8B;Backend+Developer+%C2%B7+Systems+Engineer;Python+%C2%B7+Django+%C2%B7+NestJS+%C2%B7+PostgreSQL;I+build+secure+REST+APIs+%F0%9F%94%90" alt="Typing SVG" />
+<a href="https://jfernandobolivar.github.io"><img src="assets/banner.svg" width="100%" alt="José Fernando Bolívar — Systems Engineer · Backend Developer"/></a>
 
-**Ingeniero de Sistemas (tesis 20/20) y desarrollador backend** · Construyo APIs REST seguras y sistemas en producción.
-<br>*Systems Engineer & backend developer · I build secure REST APIs and production systems.*
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0b1120)](https://jfernandobolivar.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fernando-bolivar-82600a348)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josefernandobolivar2@gmail.com)
-![Open to work](https://img.shields.io/badge/Open_to-freelance_%26_part--time-34D399?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0b1120?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://jfernandobolivar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b1120?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/jos%C3%A9-fernando-bolivar-82600a348)
+[![Email](https://img.shields.io/badge/EMAIL-0b1120?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:josefernandobolivar2@gmail.com)
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 Sobre mí · About me
+```yaml
+engineer:
+  name: José Fernando Bolívar
+  role: Backend Developer · Systems Engineer (thesis 20/20)
+  focus: [REST APIs, data modeling, security, process automation]
+  experience: Production systems for public institutions — HR, payroll, benefits and health
+  security: [JWT, OAuth2, RBAC]
+  learning: [FastAPI, Go, Rust]
+  location: Venezuela · Remote · UTC-4
+  languages: [Spanish (native), English (technical)]
+  status: Open to freelance & part-time
+```
 
-- 🔭 Desarrollo sistemas internos en producción (RR. HH., nómina, beneficios y salud) para instituciones públicas.
-- ⚙️ APIs REST con **Django REST Framework** y **NestJS**, documentadas con Swagger / OpenAPI.
-- 🔐 Seguridad: **JWT, OAuth2 y RBAC** en sistemas con datos sensibles.
-- 🧾 Soluciones para negocios: facturación multimoneda (Bs/$/€), bots de WhatsApp y dashboards en Excel / Google Sheets.
-- 🌱 Aprendiendo: FastAPI, Go y Rust.
-- 🌎 Remoto · UTC-4 · Español nativo, inglés técnico.
+<h3 align="left">STACK</h3>
 
-### 🛠️ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nestjs,nodejs,ts,js,postgres,mysql,prisma,docker,git,github,react,nextjs,vercel,aws&perline=8" alt="Stack" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,nestjs,nodejs,ts,js,postgres,mysql,prisma,docker,git,github,react,nextjs,vercel,aws&perline=16&theme=dark" alt="Stack" />
 </p>
 
-### 🚀 Proyectos destacados · Featured projects
+<h3 align="left">PROYECTOS DESTACADOS · FEATURED PROJECTS</h3>
+<sub>Haz clic en cada proyecto para ver el detalle · Click a project to expand it</sub>
+<br/><br/>
 
-| Proyecto | Qué hace | Stack |
-|---|---|---|
-| 🎓 **[Sistema de gestión académica](https://github.com/JFernandoBolivar/sistema-tesis)** | Mi tesis (20/20): proyectos académicos, evaluaciones y entregas con 4 roles | TypeScript · NestJS · PostgreSQL |
-| 🧾 **Inventario y facturación multimoneda** | Ventas e inventario en VES/USD/EUR, cuentas por cobrar y roles con JWT | Django · DRF · PostgreSQL |
-| 🏛️ **Gestión de personal y beneficios** | Sistema institucional que reemplazó el control manual en Excel | DRF · NestJS · PostgreSQL · RBAC |
-| ✈️ **[API para agencia de viajes](https://github.com/JFernandoBolivar/AgenciaViajes)** | Catálogo de paquetes, precios, disponibilidad y reseñas | Python · Flask · SQL |
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/p1_billing.svg" width="100%" alt="Facturación multimoneda"/>
+<details>
+<summary><b>Ver detalle · Details</b></summary>
+<br/>
 
-👉 Más detalles en mi **[portafolio](https://jfernandobolivar.github.io)**.
+**Problema:** los comercios venezolanos venden en bolívares, dólares y euros y llevan el control a mano.
 
-### 📊 GitHub
+**Solución:** sistema full stack de ventas, inventario y facturación con conversión de tasas.
+
+- Cuentas por cobrar: crédito, abonos parciales, vencimientos e historial por cliente
+- Roles Administrador, Supervisor y Vendedor con autenticación JWT
+- Reportes y monitoreo de operaciones
+
+`Django` `Django REST Framework` `PostgreSQL` `JWT`
+
+<sub>Código privado · demo bajo solicitud</sub>
+</details>
+</td>
+<td width="50%" valign="top">
+<img src="assets/p2_hr.svg" width="100%" alt="Gestión de personal y beneficios"/>
+<details>
+<summary><b>Ver detalle · Details</b></summary>
+<br/>
+
+**Problema:** el control de beneficios del personal se llevaba en hojas de Excel, sin trazabilidad.
+
+**Solución:** plataforma institucional en producción para personal activo, jubilado y pensionado.
+
+- Gestión de personal y cargos, tipos de nómina y servicio médico
+- Reportes dinámicos con filtros combinables
+- Limpieza de datos heredados: menos duplicados e inconsistencias
+
+`DRF` `NestJS` `PostgreSQL` `RBAC` `Swagger`
+
+<sub>Proyecto institucional · código confidencial</sub>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/JFernandoBolivar/sistema-tesis"><img src="assets/p3_thesis.svg" width="100%" alt="Sistema de gestión académica"/></a>
+<details>
+<summary><b>Ver detalle · Details</b></summary>
+<br/>
+
+**Trabajo Especial de Grado — calificación 20/20.**
+
+Plataforma para gestionar proyectos académicos, evaluaciones y entregas con fecha límite.
+
+- 4 roles: Administrador, Coordinador, Profesor y Estudiante
+- Calificaciones, retroalimentación y control de entregas
+
+`TypeScript` `NestJS` `PostgreSQL`
+
+[Ver repositorio →](https://github.com/JFernandoBolivar/sistema-tesis)
+</details>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/JFernandoBolivar/AgenciaViajes"><img src="assets/p4_travel.svg" width="100%" alt="API para agencia de viajes"/></a>
+<details>
+<summary><b>Ver detalle · Details</b></summary>
+<br/>
+
+API REST para el catálogo de paquetes turísticos de una agencia de viajes.
+
+- Disponibilidad, precios, fechas, duración y tipos de paquete
+- Reseñas y valoraciones con validaciones de integridad
+- Relaciones usuario–reseña–paquete bien modeladas
+
+`Python` `Flask` `SQL`
+
+[Ver repositorio →](https://github.com/JFernandoBolivar/AgenciaViajes)
+</details>
+</td>
+</tr>
+</table>
+
+<h3 align="left">ACTIVIDAD · ACTIVITY</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JFernandoBolivar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFernandoBolivar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JFernandoBolivar&show_icons=true&hide_border=true&count_private=true&bg_color=0b1120&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFernandoBolivar&layout=compact&hide_border=true&bg_color=0b1120&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
 </p>
 
 <div align="center">
 
-💬 **¿Tienes un proyecto en mente? / Have a project in mind?** → [josefernandobolivar2@gmail.com](mailto:josefernandobolivar2@gmail.com)
+**¿Tienes un proyecto en mente? · Have a project in mind?**
+<br/>
+[josefernandobolivar2@gmail.com](mailto:josefernandobolivar2@gmail.com) · [jfernandobolivar.github.io](https://jfernandobolivar.github.io)
 
 </div>
