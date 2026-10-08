@@ -16,7 +16,7 @@
 ```yaml
 engineer:
   name: José Fernando Bolívar
-  role: Backend Developer · Systems Engineer (thesis 20/20)
+  role: Backend Developer · Systems Engineer
   focus: [REST APIs, data modeling, security, process automation]
   experience: Production systems for public institutions — HR, payroll, benefits and health
   security: [JWT, OAuth2, RBAC]
@@ -84,7 +84,7 @@ engineer:
 <summary><b>Ver detalle · Details</b></summary>
 <br/>
 
-**Trabajo Especial de Grado — calificación 20/20.**
+**Trabajo Especial de Grado (proyecto de tesis).**
 
 Plataforma para gestionar proyectos académicos, evaluaciones y entregas con fecha límite.
 
